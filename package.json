@@ -1,0 +1,33 @@
+{
+  "name": "choice.js",
+  "version": "1.0.0",
+  "description": "An advanced voting library, built on the foundations of social choice theory.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajan28/choice.js.git"
+  },
+  "keywords": [
+    "voting",
+    "voting systems",
+    "social choice theory",
+    "vote",
+    "rank",
+    "library",
+    "javascript"
+  ],
+  "author": "Rajan Patel <rajan.patel28@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajan28/choice.js/issues"
+  },
+  "homepage": "https://github.com/rajan28/choice.js",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-karma": "^0.12.2",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.3"
+  }
+}
